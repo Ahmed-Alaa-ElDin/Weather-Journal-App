@@ -32,6 +32,15 @@ body{
   margin: 20px auto;
 }
 
+#error{
+  color: #f23557;
+  background-color: #f0d43a;
+  display: none;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 10px;
+}
+
 #date{
 
 }
